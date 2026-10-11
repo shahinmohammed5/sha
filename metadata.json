@@ -1,0 +1,8 @@
+{
+  "name": "SmartCity — Puducherry Smart Parking & Traffic Portal",
+  "description": "Unified smart-city portal for Puducherry: smart parking discovery & booking, citizen traffic violation reporting, and police enforcement with digital e-challans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
